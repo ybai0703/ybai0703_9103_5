@@ -18,11 +18,11 @@ With the first code example, I can let the user create a visual of a kaleidoscop
 
 ### 2-2. example code
 - [Link Text](https://p5js.org/examples/repetition-kaleidoscope/)
- - [an image of the example code1](readmeImages/example1.png)
+  - [an image of the example code1](readmeImages/example1.png)
 
 - [Link Text](https://p5js.org/examples/3d-orbit-control/)
- - [an image of the example2 code2](readmeImages/example2-1.png)
- - [an image of the example2 code2](readmeImages/example2-2.png)
+  - [an image of the example2 code2](readmeImages/example2-1.png)
+  - [an image of the example2 code2](readmeImages/example2-2.png)
 
 - [Link Text](https://www.youtube.com/watch?v=lz_aCw2Um3E)
 
