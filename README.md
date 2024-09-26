@@ -5,11 +5,11 @@
 The complex geometry and multi-layered symmetrical patterns of mandalas can add depth and beauty to my visuals. I think it is very suitable for using computer technology to dynamically generate these patterns. Also, I want to make it an infinite animation.
 
 ### 1-2.examples I  found
-![an image of mandala]( readmeImages/mandala.jpg)
-![a GIF of mandala1](readmeImages/mandala1.gif)
-![a GIF of mandala2](readmeImages/mandala2.gif)
-[a GIF of kaleidoscope](readmeImages/kaleidoscope.gif)
-[Link Text](https://www.youtube.com/watch?v=fFyC68CIEio)
+- ![an image of mandala]( readmeImages/mandala.jpg)
+- ![a GIF of mandala1](readmeImages/mandala1.gif)
+- ![a GIF of mandala2](readmeImages/mandala2.gif)
+- [a GIF of kaleidoscope](readmeImages/kaleidoscope.gif)
+- [Link Text](https://www.youtube.com/watch?v=fFyC68CIEio)
 
 
 ## Part 2: Coding Technique Exploration
